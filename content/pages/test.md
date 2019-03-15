@@ -2,6 +2,6 @@
 template: page
 title: Test
 slug: pages/test
-draft: true
+draft: false
 ---
 Hello
